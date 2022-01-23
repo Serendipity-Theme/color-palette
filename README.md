@@ -1,20 +1,15 @@
 ![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
 
-# Serendipity for [Platform]
+# Serendipity Color Palette
 
+## Usage
 
-# Installation
+We provide you with the colors for all theme variants in many different formats.  
+Depending on where you would like to integrate them, you need to look either in `palettes.txt` (for CSS & Co.), `tailwind.config.js` (for usage with [Tailwind CSS](https://tailwindcss.com)), or the other files.
 
-1. Open **X**.
-2. Search for **X**
-3. Click **X** to do **X**
+If you need the colors in a differnt format that isn't available yet, just open an issue and let us know!  
+We'll gladly add it :)
 
-# Screenshots Under this heading
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/vs-code/master/sunset.png)
+## Check out the palette:
 
-# Who ported the theme?
-
-# Standard formatting
-- Add the same header on the repo
-- Call the repo as the app you are porting for.
-
+![Serendipity Palette](https://user-images.githubusercontent.com/18015147/150700800-0f991263-ad9f-4246-9575-ba74dd95d9ff.png)
